@@ -39,9 +39,15 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 
 ## 🎧 Interests:
 
+- Neuroscience 🧠
+- Brain-Computer Interfaces (BCIs) 🖥️➡️🧠
+- Artificial Intelligence 🤖
+- Biotechnology 🧬
+- Research 🔍
 - Gaming 🎮
 - Catching some Z's 😴
 - Grooving to good music 🎵
+
 
 ## 📝 Favorite Quote:
 
