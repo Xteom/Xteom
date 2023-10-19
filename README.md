@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hello, I'm Mateo De La Roche!
 
-<!--
-**Xteom/Xteom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data scientist with a knack for diving deep into data and extracting meaningful insights. Currently in my senior year at ITAM, I've honed my skills in a variety of programming languages and technologies, always with an eye towards innovation and excellence.
 
-Here are some ideas to get you started:
+## 🔭 Languages & Technologies I Love:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `R` `C++` `Typescript` `SQL` `Bash` `PyTorch` `TensorFlow` `Numpy` `HuggingFace` `AWS` `GCP` `Docker` `GitHub` `Tableau` `Ubuntu` `Manjaro` `Windows` `MacOS` `Kali Linux`
+
+## 🌱 Highlighted Projects:
+
+- **[NeuroLab](https://github.com/Xteom/NeuroLab)**: The main repository for a research BCI lab.
+- **[DNN-Genetics](https://github.com/Xteom/DNN-Genetics)**: A project focused on the classification of genetic sequencing using deep neural networks.
+
+## 🎓 Education:
+
+- Senior year at [ITAM](https://www.itam.mx/en).
+
+## 🎧 Interests:
+
+- Gaming 🎮
+- Catching some Z's 😴
+- Grooving to good music 🎵
+
+## 📝 Favorite Quote:
+
+> "If your soul burns with passion and desire then it’s your duty to be reduced to ashes by it." - Bukowski
+
+## 📫 Let's Connect!
+
+Feel free to reach out or check out my projects. I'm always open to collaborating or just having a chat about tech, gaming, or music!
