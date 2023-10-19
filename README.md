@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mateo De La Roche!
 ![](https://komarev.com/ghpvc/?username=Xteom&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-I'm a passionate data scientist with a knack for diving deep into data and extracting meaningful insights. Currently in my senior year at ITAM, I've honed my skills in a variety of programming languages and technologies, always with an eye towards innovation and excellence.
+I'm a passionate data scientist with a knack for diving deep into data and extracting meaningful insights. Currently in my senior year at ITAM, I've honed my skills in a variety of programming languages and technologies, always with an eye towards innovation and excellence. In my free time, I lead NeuroLab a BCI research lab at my university, delving into the fascinating intersection of neuroscience and technology.
 
 ## 🔭 Languages:
 
