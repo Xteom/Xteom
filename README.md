@@ -27,4 +27,7 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 
 ## 📫 Let's Connect!
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/mateo-de-la-roche)
+[![Email Me](https://img.shields.io/badge/-Email%20Me-blue?style=flat-square&logo=gmail&colorB=555)](mailto:mateodelaroche@gmail.com)
+
 Feel free to reach out or check out my projects. I'm always open to collaborating or just having a chat about tech, gaming, or music!
