@@ -2,9 +2,18 @@
 
 I'm a passionate data scientist with a knack for diving deep into data and extracting meaningful insights. Currently in my senior year at ITAM, I've honed my skills in a variety of programming languages and technologies, always with an eye towards innovation and excellence.
 
-## 🔭 Languages & Technologies I Love:
+## 🔭 Languages:
 
-`Python` `R` `C++` `Typescript` `SQL` `Bash` `PyTorch` `TensorFlow` `Numpy` `HuggingFace` `AWS` `GCP` `Docker` `GitHub` `Tableau` `Ubuntu` `Manjaro` `Windows` `MacOS` `Kali Linux`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 🛠 Technologies:
+
+`PyTorch` `TensorFlow` `Numpy` `HuggingFace` `AWS` `GCP` `Docker` `GitHub` `Tableau` `Ubuntu` `Manjaro` `Windows` `MacOS` `Kali Linux`
 
 ## 🌱 Highlighted Projects:
 
