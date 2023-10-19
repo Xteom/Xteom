@@ -53,6 +53,10 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 
 > "If your soul burns with passion and desire then it’s your duty to be reduced to ashes by it." - Bukowski
 
+## 👀 Profile Views:
+
+![](https://komarev.com/ghpvc/?username=Xteom&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 ## 📊 GitHub Stats:
 
 [![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xteom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
