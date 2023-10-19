@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Mateo De La Roche!
+![](https://komarev.com/ghpvc/?username=Xteom&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 I'm a passionate data scientist with a knack for diving deep into data and extracting meaningful insights. Currently in my senior year at ITAM, I've honed my skills in a variety of programming languages and technologies, always with an eye towards innovation and excellence.
 
@@ -52,10 +53,6 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 ## 📝 Favorite Quote:
 
 > "If your soul burns with passion and desire then it’s your duty to be reduced to ashes by it." - Bukowski
-
-## 👀 Profile Views:
-
-![](https://komarev.com/ghpvc/?username=Xteom&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats:
 
