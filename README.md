@@ -53,6 +53,13 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 
 > "If your soul burns with passion and desire then it’s your duty to be reduced to ashes by it." - Bukowski
 
+## 📊 GitHub Stats:
+
+[![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xteom&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xteom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/mateo-de-la-roche)
