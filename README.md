@@ -65,6 +65,7 @@ I'm a passionate data scientist with a knack for diving deep into data and extra
 ## 📊 GitHub Stats:
 
 ![Mateo's GitHub stats](https://github-readme-stats-xteoms-projects.vercel.app//api?username=Xteom&show_icons=true&theme=radical)
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api/api?username=Xteom&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xteom&layout=compact&theme=radical)
 
